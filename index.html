@@ -770,13 +770,6 @@
 
 <div class="carousel carousel-slider center index-cover" data-indicators="true" style="margin-top: -64px;">
     
-    <div id="prev-cover" class="left waves-effect carousel-control">
-        <i class="icon fa fa-angle-left"></i>
-    </div>
-    <div id="next-cover" class="right waves-effect carousel-control">
-        <i class="icon fa fa-angle-right"></i>
-    </div>
-    
 
     <div class="carousel-item red white-text bg-cover about-cover">
         <div class="container">
@@ -869,32 +862,6 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
     </div>
 
     
-    
-
-    
-    
-    <div class="carousel-item amber white-text carousel-post bg-cover"
-            style="background-image: url('/medias/banner/0.jpg');">
-        <div class="container">
-            <div class="row">
-                <div class="col s10 offset-s1">
-                    <div class="title center-align">博客开源</div>
-                    <div class="description center-align">
-                    
-                        倒腾了一两周总算把个人博客网站完善了，目前这个版本使用应该是够了，当然还有一些优化项和功能增加后续在慢慢更新，为了回馈开源，今天准备把我自己修改完善的`blog`网站源代码开源。这不是生成后的网页文件，是您可以直接使用的源码，您只需要把博客相关信息换成您自己的就可以部署了。
-                    
-                    </div>
-                    <div class="cover-btns">
-                        <a href="/2019/08/27/blog-open-source/" class="waves-effect waves-light btn" target="_blank">
-                            <i class="icon fa fa-eye fa-fw"></i>阅读更多
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-    
 </div>
 
 <script>
@@ -908,19 +875,8 @@ $(function () {
 
     let carouselIntervalId;
     
-    // Loop to call the next cover article picture.
-    let autoCarousel = function() {
-        carouselIntervalId = setInterval(function () {
-            coverSlider.carousel('next');
-        }, 5000);
-    };
-    autoCarousel();
-    
 
     let restartPlay = function () {
-        
-        clearInterval(carouselIntervalId);
-        autoCarousel();
         
     };
 
@@ -951,12 +907,12 @@ $(function () {
                     <div class="dream">
     
     <div class="title center-align">
-        <i class="fa fa-lightbulb-o"></i>&nbsp;&nbsp;我的梦想
+        <i class="fa fa-lightbulb-o"></i>&nbsp;&nbsp;待定
     </div>
     
     <div class="row">
         <div class="col l8 offset-l2 m10 offset-m1 s10 offset-s1 center-align text">
-            不是每个人都应该像我这样去建造一座水晶大教堂，但是每个人都应该拥有自己的梦想，设计自己的梦想，追求自己的梦想，实现自己的梦想。梦想是生命的灵魂，是心灵的灯塔，是引导人走向成功的信仰。有了崇高的梦想，只要矢志不渝地追求，梦想就会成为现实，奋斗就会变成壮举，生命就会创造奇迹。——罗伯·舒乐
+            座右铭
         </div>
     </div>
 </div>
@@ -982,6 +938,7 @@ $(function () {
     $(function () {
         new APlayer({
             container: document.getElementById('aplayer'),
+            /* 当等号两边的值为相同类型的时候，直接比较等号两边的值，值相同则返回true，若等号两边的值类型不同时直接返回false。 */
             fixed: 'false' === 'true',
             autoplay: 'false' === 'true',
             theme: '#542674',
@@ -1002,39 +959,6 @@ $(function () {
                     
                     <div id="recommend-sections" class="recommend">
                         
-
-
-
-
-
-<div class="title"><i class="fa fa-thumbs-o-up"></i>&nbsp;&nbsp;推荐文章</div>
-
-<div class="row">
-
-    
-    
-    <div class="col s12" >
-        <div class="post-card" style="background-image: url('/medias/featureimages/16.jpg')">
-            <div class="post-body">
-                <div class="post-categories">
-                    
-                    <a href="/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/" class="category" target="_blank">软件安装与配置</a>
-                    
-                </div>
-                <a href="/2019/08/27/blog-open-source/" target="_blank">
-                    <h3 class="post-title">博客开源</h3>
-                </a>
-                <p class="post-description">倒腾了一两周总算把个人博客网站完善了，目前这个版本使用应该是够了，当然还有一些优化项和功能增加后续在慢慢更新，为了回馈开源，今天准备把我自己修改完善的`blog`网站源代码开源。这不是生成后的网页文件，是您可以直接使用的源码，您只需要把博客相关信息换成您自己的就可以部署了。</p>
-                <a href="/2019/08/27/blog-open-source/" target="_blank"
-                        class="read-more btn waves-effect waves-light" style="background: linear-gradient(to right, #FF5E3A 0%, #FF2A68 100%)">
-                    <i class="icon fa fa-eye fa-fw"></i>阅读更多
-                </a>
-            </div>
-        </div>
-    </div>
-    
-
-</div>
 
 
                     </div>
@@ -1367,13 +1291,14 @@ $(function () {
             <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
         
 
-        <!-- 洪卫 shw2018 add 2019.08.28 -->
+        <!-- 网站标签 -->
         <script type="text/javascript">
             var OriginTitile = document.title,
                 st;
             document.addEventListener("visibilitychange", function () {
-                document.hidden ? (document.title = "看不见我🙈~看不见我🙈~", clearTimeout(st)) : (document.title =
-                    "(๑•̀ㅂ•́) ✧被发现了～", st = setTimeout(function () {
+                /* clearTimeOut:阻止setTimeOut执行，标签docunment.title不改变 */
+                document.hidden ? (document.title = "点开我，这是个宝藏~", clearTimeout(st)) : (document.title =
+                    "(๑•̀ㅂ•́)你发现了宝藏", st = setTimeout(function () {
                         document.title = OriginTitile
                     }, 3e3))
             })
