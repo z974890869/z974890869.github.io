@@ -629,6 +629,7 @@ header .go-back i {
 } */
 /* 洪卫 shw2018 modify 2019.08.31 */
 .index-card .card .card-content {
+    margin-top: 50px;
     padding: 5px 5px;
 }
 
