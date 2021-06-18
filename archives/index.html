@@ -1215,6 +1215,7 @@ $(function () {
         
 
         <!-- 网站标签 -->
+        <!-- OriginTitle = First Hexo Blog -->
         <script type="text/javascript">
             var OriginTitile = document.title,
                 st;
@@ -1222,16 +1223,15 @@ $(function () {
                 /* clearTimeOut:阻止setTimeOut执行，标签docunment.title不改变 */
                 document.hidden ? (document.title = "点开我，这是个宝藏~", clearTimeout(st)) : (document.title =
                     "(๑•̀ㅂ•́)你发现了宝藏", st = setTimeout(function () {
+                        /* 2秒后变回原标题 */
                         document.title = OriginTitile
-                    }, 3e3))
+                    }, 2e3))
             })
         </script>
 
         <!-- 鼠标点击烟花爆炸效果  洪卫 shw2018 add 2019.09.09 -->
         
 
-        <!-- 背景雪花飘落特效洪卫 shw2018 add 2019.09.10 -->
-        
 
         <!-- 鼠标点击文字特效 洪卫 shw2018 add 2019.09.10-->
         
@@ -1241,7 +1241,8 @@ $(function () {
 
         <!-- 在线聊天工具  洪卫 shw2018 add 2019.09.11 -->
         
-            <script src="//code.tidio.co/xxxxxxxxxxxxxxxxxxxxxxxxxxx.js"></script>
+            
+            <script src="//code.tidio.co/x0wght7cnaiyq3ud2sclxacvi5npirrl.js" async></script>
             <!--  在线聊天位置自定义  洪卫 shw2018 add 2019.09.13  -->
             <script> 
                 $(document).ready(function () {
