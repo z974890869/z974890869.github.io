@@ -957,7 +957,7 @@ $(function () {
             listFolded: 'true' === 'true',
             listMaxHeight: '197px',
             lrcType: Number('3'),
-            audio: JSON.parse('[{"name":"Kiss Me","artist":"CAROLE&TUESDAY","url":"http://sr.sycdn.kuwo.cn/325548cce18ccb6bce2a8156f595d938/60cd8b9e/resource/n2/65/41/3067058505.mp3","cover":"http://p1.music.126.net/D7vhmqtPcjktxbDXCO7pcA==/109951164000044780.jpg?param=500y500","lrc":"https://raw.githubusercontent.com/z974890869/z974890869.github.io/main/medias/music/Kiss%E6%AD%8C%E8%AF%8D.lrc"}]')
+            audio: JSON.parse('[{"name":"Kiss Me","artist":"CAROLE&TUESDAY","url":"http://sr.sycdn.kuwo.cn/325548cce18ccb6bce2a8156f595d938/60cd8b9e/resource/n2/65/41/3067058505.mp3","cover":"http://p1.music.126.net/D7vhmqtPcjktxbDXCO7pcA==/109951164000044780.jpg?param=500y500","lrc":"https://raw.githubusercontent.com/z974890869/z974890869.github.io/main/medias/music/KissMe.lrc"}]')
         });
     });
 </script>
@@ -1370,8 +1370,8 @@ $(function () {
                         var tidio=$("#tidio-chat iframe");
                         if(tidio.css("display")=="block"&& $(window).width()>977 ){
                             /* 如果回到顶部按钮没出现，并且侧边目录没出现则，bottom:50px */
-                            document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" &&$(window).width()>977)>0? "-50px" : ($("div.toc-title").length&&$(window).width()>977)>0?"80px":"50px";   
-                            document.getElementById("tidio-chat-iframe").style.right="-18px";   
+                            document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" &&$(window).width()>977)>0? "30px" : ($("div.toc-title").length&&$(window).width()>977)>0?"80px":"50px";   
+                            document.getElementById("tidio-chat-iframe").style.right="-8px";   
                             document.getElementById("tidio-chat-iframe").style.height=parseInt(tidio.css("height"))>=520?"520px":tidio.css("height");
                             document.getElementById("tidio-chat-iframe").style.zIndex="997";
                         } 
