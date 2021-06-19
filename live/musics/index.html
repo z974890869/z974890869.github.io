@@ -1337,8 +1337,8 @@ $(function () {
                         var tidio=$("#tidio-chat iframe");
                         if(tidio.css("display")=="block"&& $(window).width()>977 ){
                             /* 如果回到顶部按钮没出现，并且侧边目录没出现则，bottom:50px */
-                            document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" &&$(window).width()>977)>0? "-40px" : ($("div.toc-title").length&&$(window).width()>977)>0?"80px":"50px";   
-                            document.getElementById("tidio-chat-iframe").style.right="-15px";   
+                            document.getElementById("tidio-chat-iframe").style.bottom= ($("div#backTop.top-scroll").css("display")=="none" &&$(window).width()>977)>0? "-50px" : ($("div.toc-title").length&&$(window).width()>977)>0?"80px":"50px";   
+                            document.getElementById("tidio-chat-iframe").style.right="-18px";   
                             document.getElementById("tidio-chat-iframe").style.height=parseInt(tidio.css("height"))>=520?"520px":tidio.css("height");
                             document.getElementById("tidio-chat-iframe").style.zIndex="997";
                         } 
