@@ -323,9 +323,9 @@ header .side-nav .menu-list a {
     font-size: 1.16rem;
     color: #34495e !important;
 }
-/* 展开后 */
+
 header .side-nav .fa-fw {
-    width: 3.3rem;
+    width: 2rem;
     text-align: left;
 }
 
