@@ -323,9 +323,9 @@ header .side-nav .menu-list a {
     font-size: 1.16rem;
     color: #34495e !important;
 }
-
+/* 移动设备图标 */
 header .side-nav .fa-fw {
-    width: 2rem;
+    width: 3.3rem;
     text-align: left;
 }
 
@@ -2023,6 +2023,7 @@ footer .copy-right {
 .m-nav-item {
     position: relative;
     left: 0px;
+    width: 200px;
 }
 
 .m-nav-item ul {
