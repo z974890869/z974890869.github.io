@@ -2029,12 +2029,12 @@ footer .copy-right {
     display: none;
     background: rgba(255, 255, 255, .1);
 }
-
+/* 二级菜单 */
 .m-nav-item ul li {
     width: 250px;
     height: 50px;
     line-height: 50px;
-    text-align: right;
+    text-align: center;
 }
 
 .m-nav-show .m-icon {
