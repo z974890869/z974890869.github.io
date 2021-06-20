@@ -2023,7 +2023,6 @@ footer .copy-right {
 .m-nav-item {
     position: relative;
     left: 0px;
-    width: 200px;
 }
 
 .m-nav-item ul {
@@ -2032,10 +2031,10 @@ footer .copy-right {
 }
 
 .m-nav-item ul li {
-    width: 220px;
+    width: 120px;
     height: 50px;
     line-height: 50px;
-    text-align: center;
+    text-align: left;
 }
 
 .m-nav-show .m-icon {
