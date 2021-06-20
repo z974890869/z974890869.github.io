@@ -245,7 +245,7 @@ mark {
 .pd-header {
     margin-top: -64px;
 }
-
+/* 未展开 */
 header .side-nav {
     width: 240px;
     z-index: 999;
@@ -323,7 +323,7 @@ header .side-nav .menu-list a {
     font-size: 1.16rem;
     color: #34495e !important;
 }
-
+/* 展开后 */
 header .side-nav .fa-fw {
     width: 3.3rem;
     text-align: left;
