@@ -245,7 +245,7 @@ mark {
 .pd-header {
     margin-top: -64px;
 }
-/* 未展开 */
+/* 移动端侧边导航栏 */
 header .side-nav {
     width: 240px;
     z-index: 999;
