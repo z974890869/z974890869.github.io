@@ -2022,7 +2022,7 @@ footer .copy-right {
 
 .m-nav-item {
     position: relative;
-    left: 30px
+    left: 0px;
 }
 
 .m-nav-item ul {
