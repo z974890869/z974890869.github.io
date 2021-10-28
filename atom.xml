@@ -6,7 +6,7 @@
   <link href="https://z974890869.com/atom.xml" rel="self"/>
   
   <link href="https://z974890869.com/"/>
-  <updated>2021-06-13T02:21:51.924Z</updated>
+  <updated>2021-10-28T04:06:14.902Z</updated>
   <id>https://z974890869.com/</id>
   
   <author>
@@ -17,18 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>记录学习博客</title>
-    <link href="https://z974890869.com/2021/06/13/ji-lu-xue-xi-bo-ke/"/>
-    <id>https://z974890869.com/2021/06/13/ji-lu-xue-xi-bo-ke/</id>
-    <published>2021-06-13T00:41:32.000Z</published>
-    <updated>2021-06-13T02:21:51.924Z</updated>
+    <title></title>
+    <link href="https://z974890869.com/2021/10/28/linux-chang-yong-ming-ling/"/>
+    <id>https://z974890869.com/2021/10/28/linux-chang-yong-ming-ling/</id>
+    <published>2021-10-28T03:50:23.666Z</published>
+    <updated>2021-10-28T04:06:14.902Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;简短介绍&quot;&gt;&lt;a href=&quot;#简短介绍&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; title=&quot;目录&quot;&gt;&lt;/a&gt;目录&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;/bin 常用指令&lt;/li&gt;
+&lt;li&gt;/boot 启动linux时的核心文件&lt;/li&gt;
+&lt;li&gt;/data</summary>
         
       
     
@@ -38,24 +41,178 @@
   </entry>
   
   <entry>
-    <title>article title</title>
-    <link href="https://z974890869.com/2021/06/12/article-title/"/>
-    <id>https://z974890869.com/2021/06/12/article-title/</id>
-    <published>2021-06-12T02:37:52.000Z</published>
-    <updated>2021-06-12T02:37:52.064Z</updated>
+    <title></title>
+    <link href="https://z974890869.com/2021/10/27/spring-ioc-gai-lan/"/>
+    <id>https://z974890869.com/2021/10/27/spring-ioc-gai-lan/</id>
+    <published>2021-10-27T12:47:16.605Z</published>
+    <updated>2021-10-27T12:47:16.605Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Spring-IOC概览&quot;&gt;&lt;a href=&quot;#Spring-IOC概览&quot; class=&quot;headerlink&quot; title=&quot;Spring IOC概览&quot;&gt;&lt;/a&gt;Spring</summary>
+        
+      
     
     
     
     
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://z974890869.com/2021/10/26/view-source-https-www.cnblogs.com-davidwang456-p-3801642/"/>
+    <id>https://z974890869.com/2021/10/26/view-source-https-www.cnblogs.com-davidwang456-p-3801642/</id>
+    <published>2021-10-26T12:37:57.035Z</published>
+    <updated>2021-10-17T10:28:44.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;line-gutter-backdrop&quot;&gt;&lt;/div&gt;&lt;form autocomplete=&quot;off&quot;&gt;&lt;label class=&quot;line-wrap-control&quot;&gt;换行&lt;input type=&quot;checkbox&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>记录学习博客</title>
+    <link href="https://z974890869.com/2021/10/26/string-yuan-ma-mu-lu/"/>
+    <id>https://z974890869.com/2021/10/26/string-yuan-ma-mu-lu/</id>
+    <published>2021-10-26T12:37:57.033Z</published>
+    <updated>2021-10-26T03:01:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;编码&quot;&gt;&lt;a href=&quot;#编码&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="-String -Java" scheme="https://z974890869.com/categories/String-Java/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>SimpleAliasRegistry</title>
+    <link href="https://z974890869.com/2021/10/26/simplealiasregistry/"/>
+    <id>https://z974890869.com/2021/10/26/simplealiasregistry/</id>
+    <published>2021-10-26T12:37:57.028Z</published>
+    <updated>2021-10-04T11:09:54.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;SimpleAliasRegistrt整体概览&quot;&gt;&lt;a href=&quot;#SimpleAliasRegistrt整体概览&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Spring" scheme="https://z974890869.com/categories/Spring/"/>
+    
+    
+    <category term="Spring" scheme="https://z974890869.com/tags/Spring/"/>
+    
+    <category term="com.springboot.core" scheme="https://z974890869.com/tags/com-springboot-core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>NestedRuntimeException</title>
+    <link href="https://z974890869.com/2021/10/26/nestedruntimeexception/"/>
+    <id>https://z974890869.com/2021/10/26/nestedruntimeexception/</id>
+    <published>2021-10-26T12:37:57.026Z</published>
+    <updated>2021-10-09T10:24:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;contains函数&quot;&gt;&lt;a href=&quot;#contains函数&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Spring" scheme="https://z974890869.com/categories/Spring/"/>
+    
+    
+    <category term="Spring" scheme="https://z974890869.com/tags/Spring/"/>
+    
+    <category term="com.springboot.beans.core" scheme="https://z974890869.com/tags/com-springboot-beans-core/"/>
+    
+    <category term="cause" scheme="https://z974890869.com/tags/cause/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://z974890869.com/2021/10/26/model/"/>
+    <id>https://z974890869.com/2021/10/26/model/</id>
+    <published>2021-10-26T12:37:57.024Z</published>
+    <updated>2021-10-04T11:06:10.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Markdown-syntax-guide&quot;&gt;&lt;a href=&quot;#Markdown-syntax-guide&quot; class=&quot;headerlink&quot; title=&quot;Markdown syntax guide&quot;&gt;&lt;/a&gt;Markdown syntax</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>indexOf(寻找相匹配字符串中第一个下标)</title>
+    <link href="https://z974890869.com/2021/10/26/indexof-string/"/>
+    <id>https://z974890869.com/2021/10/26/indexof-string/</id>
+    <published>2021-10-26T12:37:57.020Z</published>
+    <updated>2021-10-26T03:28:26.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;变量声明&quot;&gt;&lt;a href=&quot;#变量声明&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="-Java -String" scheme="https://z974890869.com/categories/Java-String/"/>
+    
+    
+    <category term="-Java.lang.String" scheme="https://z974890869.com/tags/Java-lang-String/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://z974890869.com/2021/06/12/hello-world/"/>
-    <id>https://z974890869.com/2021/06/12/hello-world/</id>
-    <published>2021-06-12T01:23:37.037Z</published>
-    <updated>2021-06-16T11:29:34.301Z</updated>
+    <link href="https://z974890869.com/2021/10/26/hello-world/"/>
+    <id>https://z974890869.com/2021/10/26/hello-world/</id>
+    <published>2021-10-26T12:37:57.018Z</published>
+    <updated>2021-06-16T11:29:36.000Z</updated>
     
     
       
@@ -72,11 +229,167 @@
   </entry>
   
   <entry>
+    <title>GenerateBeanName</title>
+    <link href="https://z974890869.com/2021/10/26/generatebeanname/"/>
+    <id>https://z974890869.com/2021/10/26/generatebeanname/</id>
+    <published>2021-10-26T12:37:57.016Z</published>
+    <updated>2021-10-20T09:56:30.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Spring" scheme="https://z974890869.com/categories/Spring/"/>
+    
+    
+    <category term="Spring" scheme="https://z974890869.com/tags/Spring/"/>
+    
+    <category term="com.springboot.beans.factory.support" scheme="https://z974890869.com/tags/com-springboot-beans-factory-support/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DefaultSingletonBeanRegistry</title>
+    <link href="https://z974890869.com/2021/10/26/defaultsingletonbeanregistry/"/>
+    <id>https://z974890869.com/2021/10/26/defaultsingletonbeanregistry/</id>
+    <published>2021-10-26T12:37:57.014Z</published>
+    <updated>2021-10-09T13:12:18.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Spring" scheme="https://z974890869.com/categories/Spring/"/>
+    
+    
+    <category term="Spring" scheme="https://z974890869.com/tags/Spring/"/>
+    
+    <category term="com.springboot.beans.factory.support" scheme="https://z974890869.com/tags/com-springboot-beans-factory-support/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://z974890869.com/2021/10/26/constructor-string/"/>
+    <id>https://z974890869.com/2021/10/26/constructor-string/</id>
+    <published>2021-10-26T12:37:57.013Z</published>
+    <updated>2021-10-25T11:34:22.000Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>AccessController.doPrivileged到JAAS</title>
+    <link href="https://z974890869.com/2021/10/26/accesscontroller.doprivileged-jaas/"/>
+    <id>https://z974890869.com/2021/10/26/accesscontroller.doprivileged-jaas/</id>
+    <published>2021-10-26T12:37:57.005Z</published>
+    <updated>2021-10-17T10:28:08.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;JAAS - Java Authentication and Authorization Service(Java认证与授权服务)&lt;/p&gt;
+&lt;h1 id=&quot;写完SpringIOc-and-AOP-后可以按照&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Spring" scheme="https://z974890869.com/categories/Spring/"/>
+    
+    
+    <category term="JAAS" scheme="https://z974890869.com/tags/JAAS/"/>
+    
+    <category term="Spring" scheme="https://z974890869.com/tags/Spring/"/>
+    
+    <category term="com.springboot.beans.factory.support" scheme="https://z974890869.com/tags/com-springboot-beans-factory-support/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>字符串替换</title>
+    <link href="https://z974890869.com/2021/06/13/stringutils-zhong-replace/"/>
+    <id>https://z974890869.com/2021/06/13/stringutils-zhong-replace/</id>
+    <published>2021-06-13T00:41:32.000Z</published>
+    <updated>2021-10-22T12:01:12.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;URI和URL&quot;&gt;&lt;a href=&quot;#URI和URL&quot; class=&quot;headerlink&quot; title=&quot;URI和URL&quot;&gt;&lt;/a&gt;URI和URL&lt;/h3&gt;&lt;p&gt;URI，是uniform resource</summary>
+        
+      
+    
+    
+    
+    <category term="-Spring" scheme="https://z974890869.com/categories/Spring/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>记录学习博客</title>
+    <link href="https://z974890869.com/2021/06/13/ji-lu-xue-xi-bo-ke/"/>
+    <id>https://z974890869.com/2021/06/13/ji-lu-xue-xi-bo-ke/</id>
+    <published>2021-06-13T00:41:32.000Z</published>
+    <updated>2021-10-22T10:34:28.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;URI和URL&quot;&gt;&lt;a href=&quot;#URI和URL&quot; class=&quot;headerlink&quot; title=&quot;URI和URL&quot;&gt;&lt;/a&gt;URI和URL&lt;/h3&gt;&lt;p&gt;URI，是uniform resource</summary>
+        
+      
+    
+    
+    
+    <category term="-Spring" scheme="https://z974890869.com/categories/Spring/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>article title</title>
+    <link href="https://z974890869.com/2021/06/12/article-title/"/>
+    <id>https://z974890869.com/2021/06/12/article-title/</id>
+    <published>2021-06-12T02:37:52.000Z</published>
+    <updated>2021-06-12T02:37:54.000Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>博客开源</title>
     <link href="https://z974890869.com/2019/08/27/blog-open-source/"/>
     <id>https://z974890869.com/2019/08/27/blog-open-source/</id>
     <published>2019-08-27T03:41:03.000Z</published>
-    <updated>2021-06-14T14:35:51.969Z</updated>
+    <updated>2021-06-14T14:35:52.000Z</updated>
     
     
       
